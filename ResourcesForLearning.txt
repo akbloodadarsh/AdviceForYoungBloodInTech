@@ -1,0 +1,51 @@
+First do thIS
+1. Use your laptop/desktop
+2. Join this group https://groups.google.com/g/sharing-viewer
+3. Then Close this link and go to you google drive and then open shared drives
+4. Then their will be option of hidden shared drive click that and their you can find multiple folders and in their will be 2 folders with the name Courses 1 and courses 2
+5. Its a pool of various courses so do explore them.
+
+
+FIrst learn C language from
+**Sourabh shukla C language- https://www.youtube.com/watch?v=Bjzfag1zZPg&list=PLe_7x5eaUqtWp9fvsxhC4XIkoR3n5A-sF
+		or
+****Applied AI C language course (Best one in my opinion)
+Then after that go to this link for the C programming course(can only be viewed if you can see the hidden shared drive option)
+https://drive.google.com/drive/folders/1AEj1N1Th_U7VGW0UazS4OJ5YwM4EHUwu?usp=sharing
+after opening taht go to module 1 c programming
+or you can learn from code with harry
+
+Then learn C++ its alot similar with c but it introduces conecpt of Object oriented programming(you can learn from links given below), you can learn with 
+COde with harry https://www.youtube.com/watch?v=j8nAHeVKL08&list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL
+or Apni kaksha https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
+and using these article https://www.geeksforgeeks.org/the-c-standard-template-library-stl/ and https://www.geeksforgeeks.org/cpp-stl-tutorial/
+
+
+
+
+other folders has important materials related to interview prepartion so After learning C or C++
+
+Learn Data structure and algorithms from
+1. Algo Expert https://drive.google.com/drive/folders/1c-ZlPmSvIZOW-JEGp4Vp48sid-ViVxKl?usp=sharing
+2. Best for Dynamic Programming https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists
+3. For practice, you can crack any company if youa re able to get these one done, https://www.youtube.com/watch?v=4iFALQ1ACdA&ab_channel=LoveBabbar
+
+** Data bASE management system:- 
+First watch from applied ai databse management system https://drive.google.com/drive/folders/1JD335lYMAG5KHjVV8gW9rYHp2L8jnCu6?usp=sharing then watch this https://www.youtube.com/watch?v=BQBGORBPytw&list=PL4PCksYQGLJMtEI_0y0FWf3dz1DzB_2KU&index=10&ab_channel=LoveBabbar
+for more questions.
+and I have also provided my notes, you can go through that too.
+
+** Operating System Roadmap:- 
+First watch from applied ai operating system https://drive.google.com/drive/folders/1-cWCGF920VC2Mt58kGZe_QdPKAxXE51e?usp=sharing then watch this https://www.youtube.com/watch?v=SWBjv-GU3VQ&list=PL4PCksYQGLJMtEI_0y0FWf3dz1DzB_2KU&index=7&ab_channel=LoveBabbar
+for more questions
+and I have also provided my notes, you can go through that too.
+
+** object orienteed programming
+learn from Code with harry https://www.youtube.com/watch?v=nGJTWaaFdjc
+then after that from https://www.youtube.com/watch?v=wWejXusF9qU&list=PL4PCksYQGLJMtEI_0y0FWf3dz1DzB_2KU&index=8&ab_channel=LoveBabbar
+c
+and I have also provided my notes, you can go through that too.
+
+** Computer network
+Applied AI Computer network:- https://drive.google.com/drive/folders/1r4VDYe4y3PWipxOLCecpQE6eRtAT028e?usp=sharing
+
